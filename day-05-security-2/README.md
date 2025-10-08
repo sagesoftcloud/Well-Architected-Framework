@@ -6,8 +6,8 @@
 
 ## Mini Projects
 
-### Project 1: Basic - GuardDuty Threat Detection (90 minutes)
-**Objective**: Automated threat detection and alerting
+### Project 1: Basic - Network Security (SG and ACL) - Best Practices (90 minutes)
+**Objective**: Network Security Best Practices
 
 ### Project 2: Intermediate - WAF and DDoS Protection (90 minutes)
 **Objective**: Web application firewall and attack mitigation
